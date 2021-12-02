@@ -4,7 +4,7 @@ This repository contains a series of projects I've used for learning Data Scienc
 
 ## Projects
 
-2021-12-02 - Weight Log Analysis
+#### 2021-12-02 - Weight Log Analysis
 
 I record my weight in lbs and body fat percentage every day in a Google spreadsheet. I exported the data to CSV, cleaned it and created a couple of new metrics to explore the results.
 
@@ -12,7 +12,7 @@ I created scores for my weight and body fat percentage and compared them to days
 
 In 2022, I plan to apply this knowledge by purposely attempting to lower my numbers on Sundays. I'm curious how that would effect the trend of swinging numbers.
 
-2021-11-05 - Genshin Data Analysis
+#### 2021-11-05 - Genshin Data Analysis
 
 The data is a collection of character statistics from the game Genshin Impact.  I explored the data with Pandas and Seaborn and cleaned the data in Pandas, translating terms from Portuguese to English and abbreviating some words to symbols to better read the data.
 
